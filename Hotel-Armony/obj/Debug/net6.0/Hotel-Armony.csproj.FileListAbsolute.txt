@@ -1,0 +1,4 @@
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.csproj.CoreCompileInputs.cache
