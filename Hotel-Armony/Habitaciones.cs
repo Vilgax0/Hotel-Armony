@@ -62,5 +62,28 @@ namespace Hotel_Armony
                 }
             }
         }
+
+
+        public void MostrarHabitacionesSeparadas()
+        {
+            Console.WriteLine("Habitaciones Separadas:");
+            bool habitacionesSeparadas = false;
+
+            for (int i = 1; i <= habitaciones.Count; i++)
+            {
+                if (ObtenerEstado(i) == "Ocupada")
+                {
+                    Console.WriteLine($"Habitación {i} - Ocupada");
+                    habitacionesSeparadas = true;
+                }
+            }
+
+            if (!habitacionesSeparadas)
+            {
+                Console.WriteLine("No hay habitaciones separadas.");
+            }
+        }
+
+
     }
 }

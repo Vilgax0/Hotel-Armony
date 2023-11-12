@@ -2,3 +2,13 @@ C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-A
 C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.AssemblyInfoInputs.cache
 C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.AssemblyInfo.cs
 C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\bin\Debug\net6.0\Hotel-Armony.exe
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\bin\Debug\net6.0\Hotel-Armony.deps.json
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\bin\Debug\net6.0\Hotel-Armony.runtimeconfig.json
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\bin\Debug\net6.0\Hotel-Armony.dll
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\bin\Debug\net6.0\Hotel-Armony.pdb
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.dll
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\refint\Hotel-Armony.dll
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.pdb
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\Hotel-Armony.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Hotel-Armony\Hotel-Armony\obj\Debug\net6.0\ref\Hotel-Armony.dll

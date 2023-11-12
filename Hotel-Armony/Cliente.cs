@@ -12,6 +12,7 @@ namespace Hotel_Armony
         public string Contacto
         {
             get; set;
+        }
 
     public Cliente(string nombre, string contacto)
         {

@@ -1,4 +1,5 @@
-﻿using Hotel_Armony;
+﻿using System;
+using Hotel_Armony;
 
 class Program
 {
@@ -46,6 +47,10 @@ class Program
                         }
                         break;
                     case 3:
+                        habitaciones.MostrarHabitacionesSeparadas();
+                        break;
+                        
+                    case 4:
                         Console.WriteLine("Saliendo del programa...");
                         break;
                     default:
@@ -57,6 +62,6 @@ class Program
             {
                 Console.WriteLine("Entrada inválida. Por favor, elija una opción válida.");
             }
-        } while (opcion != 3);
+        } while (opcion != 4);
     }
 }

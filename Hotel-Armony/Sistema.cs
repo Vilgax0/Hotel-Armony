@@ -15,8 +15,11 @@ namespace Hotel_Armony
             Console.WriteLine("----------------------------------");
             Console.WriteLine("1. Ingresar datos del cliente");
             Console.WriteLine("2. Separar habitación");
-            Console.WriteLine("3. Salir");
+            Console.WriteLine("3. Mostrar habitaciones separadas");
+            Console.WriteLine("4. Salir");
+
         }
+
 
         public void ImprimirMenu()
         {

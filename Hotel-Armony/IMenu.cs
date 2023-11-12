@@ -10,5 +10,6 @@ namespace Hotel_Armony
     {
         void MostrarOpciones();
         void ImprimirMenu();
+        
     }
 }
